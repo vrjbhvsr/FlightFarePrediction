@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: FlightFarePrediction
+Version: 0.0.1
+Author: Vraj bhavsar
+Author-email: vrajcbhavsar0905@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: imblearn
+Requires-Dist: seaborn
