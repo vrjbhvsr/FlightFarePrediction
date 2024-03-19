@@ -1,0 +1,18 @@
+{
+
+	"NumberofColumns" : 11,							
+	"ColName": {
+				"Airline" : "varchar",
+				"Date_of_Journey" : "varchar",
+				"Source" : "varchar",
+				"Destination" : "varchar",
+				"Route" : "varchar",
+				"Dep_Time" : "varchar",
+				"Arrival_Time": "varchar",
+				"Duration": "varchar",
+				"Total_Stops" : "varchar",
+				"Additional_Info" : "varchar",
+                "Price" : "Integer"
+				
+	}
+}
